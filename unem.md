@@ -1,40 +1,27 @@
-# Privacy Policy
+# سياسة الخصوصية
 
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+إننا في الاتحاد الوطني لطلبة موريتانيا unemنأخذ خصوصيتك على محمل الجد، تتضمن النقاط التالية شرحا لسياسة الخصوصية الخاصة بنا.
 
+## جمع المعلومات 
 
-## Collection of Routine Information
-
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
-
-
-## Cookies
-
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+يقوم تطبيق  UNEM بالاحتفاظ ببريدك الإلكتروني الذي  تسجل من خلاله دخولك إلى التطبيق  ولا  يمكن لطرف ثالث الإطلاع على معلوماتك نستخدم هذه المعلومات من أجل تقديم خدمات أفضل مثل المفضلة  وغيرها لا يتم مشاركة معلوماتك مع أي جهة اخرى ويمكنك طلب حذف حسابك نهائيا من خلال التواصل مع إدارة التطبيق.
 
 
-## Advertisement and Other Third Parties
+## المواقع المدرجة داخل التطبيق
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+لايتحمل التطبيق مسؤولية المعلومات المقدمة من طرف المواقع المدرجة داخل التطبيق كالنتائج وغيرها.  
 
+## الحماية
 
-## Links to Third Party Websites
-
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
-
-
-## Security
-
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+يعد أمان معلوماتك الشخصية أمرًا مهمًا بالنسبة لنا لذالك نسعى جاهدين  لحماية معلوماتك الشخصية.
 
 
-## Changes To This Privacy Policy
-
-This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
+## التغييرات في سياسة الخصوصية 
 
 
-## Contact Information
+إننا نحتفظ بالحق في تحديث أو تغيير سياسة الخصوصية الخاصة بنا في أي وقت ويجب عليك مراجعة سياسة الخصوصية هذه بشكل دوري، إذاقمنا بإجراء أي تغييرات جوهرية على سياسة الخصوصية هذه، فسوف نقوم بإخطارك إما من خلال عنوان  البريد الإلكتروني الذي قدمته أو من خلا ل خاصية الإشعارات في التطبيق.
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+
+## معلومات الاتصال
+
+إذا كانت لديك أية أسئلة أو استفسارات بخصوص سياسة الخصوصية، يرجى إرسال رسالة إلى رقم الوات ساب36199323 .
